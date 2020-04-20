@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family:  Franklin Gothic Medium; 
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    justify-content: space-around;
+    background: #42D1C6;
+    text-transform: uppercase;
+    height: 100px;
+    width: auto;
+    list-style: none;
+
+}
+
+.navbar li a{
+        text-decoration-line: none;
+
+}

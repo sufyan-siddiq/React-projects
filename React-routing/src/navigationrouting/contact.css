@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.contactstyle{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: auto;
+    background: rgb(127, 120, 189);
+    
+}

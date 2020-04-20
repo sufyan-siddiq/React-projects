@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.aboutstyle{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: auto;
+    background: rgb(179, 163, 93);
+    
+}
