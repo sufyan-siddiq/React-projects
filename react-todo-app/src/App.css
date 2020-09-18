@@ -1,0 +1,17 @@
+body {
+  background-color: #b8bebe;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-div {
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 60;
+  color: rgb(255, 255, 255);
+  background-color: rgba(98, 47, 47, 0.678);
+  text-transform: uppercase;
+  text-decoration-line: underline;
+}

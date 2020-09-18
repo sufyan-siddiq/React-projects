@@ -1,0 +1,23 @@
+.input-style {
+    font-size: 20px;
+    text-align: end;
+}
+
+.DIV {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    flex-direction: row;
+}
+
+.remove-btn {
+    margin-left: 10px;
+    padding-left: 40;
+    font-size: 15px;
+}
+
+li {
+    
+    margin-left: 10px;
+}
